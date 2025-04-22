@@ -36,5 +36,4 @@ The goal is to build classification models and evaluate their performance.
 - Compared model performance.
 - Identified important features like `Sex`, `Pclass`, and `Age` influencing survival.
 
-## Author
-[Your Name]
+
